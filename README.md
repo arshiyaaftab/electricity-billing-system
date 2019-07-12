@@ -1,2 +1,1 @@
-# Image-Based-travel-recommendation-system
-This aims at providing recommendation system for tourists through a web application along with its location and details of the place. This project aims at providing recommendation of restaurants and hotels. It also provides the details of weather and routes of the place. In this project we have image based Recognition through which a tourist can get to know the unrecognised places.
+
